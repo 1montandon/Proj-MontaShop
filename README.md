@@ -1,5 +1,5 @@
-# MontaShop
+# Projeto Loja 
 
-[MontaShop](http://montashop.surge.sh/)
+Faça um protótipo de um carrinho de compras. Nesse caso, crie uma lista fixa de produtos
 
-## Array and Vue Events Study
+Link Surge - [MontaShop](https://montashop.surge.sh/)
